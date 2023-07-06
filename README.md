@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julian Felipe Parra Pulido</h1>
 <h3 align="center">A passionate programmer from Colombia</h3>
 
-- 🌱 I’m currently learning **Full Stack**
-
+- 🌱 I’m currently learning **Full Stack developer**
+- I love learning new content
 - 📫 How to reach me **julianparrap2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
